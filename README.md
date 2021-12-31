@@ -12,7 +12,11 @@ on paper is given in the submission of this assignment on Canvas.
 The resulting number of reflections is output to a file calling Output4.txt
 
 Example execution in command line:
+
 ~$  g++ .\*.cpp a.exe
+
 ~$  a.exe
+
 ~$ cat Output4.txt
+
 354
